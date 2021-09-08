@@ -1,0 +1,10 @@
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\bin\Debug\Ödev_2.Final_15.12.2020.exe.config
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\bin\Debug\Ödev_2.Final_15.12.2020.exe
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\bin\Debug\Ödev_2.Final_15.12.2020.pdb
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15.12.2020.csprojAssemblyReference.cache
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15._12._2020.Form1.resources
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15._12._2020.Properties.Resources.resources
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15.12.2020.csproj.GenerateResource.cache
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15.12.2020.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15.12.2020.exe
+C:\Users\Ceren\source\repos\Ödev_2.Final_15.12.2020\Ödev_2.Final_15.12.2020\obj\Debug\Ödev_2.Final_15.12.2020.pdb
